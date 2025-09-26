@@ -22,7 +22,7 @@ Once you have something like:
 $ cd /home/your_username/Downloads/bashcrawl/entrance
 ```
 
-in your terminal window, press RETURN.
+sin your terminal window, press RETURN.
 The exact path to the entrance varies, depending on where you saved the file.
 
 Your first move is very important.
